@@ -1,0 +1,4 @@
+C:\teh\@Test\SqlClrRegExValid\SqlClrRegExValid\bin\Debug\SqlClrRegExValid.dll
+C:\teh\@Test\SqlClrRegExValid\SqlClrRegExValid\bin\Debug\SqlClrRegExValid.pdb
+C:\teh\@Test\SqlClrRegExValid\SqlClrRegExValid\obj\Debug\SqlClrRegExValid.dll
+C:\teh\@Test\SqlClrRegExValid\SqlClrRegExValid\obj\Debug\SqlClrRegExValid.pdb
